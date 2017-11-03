@@ -1,0 +1,3 @@
+{
+"cpf_status":["ACTIVE","PREACTIVE","INACTIVE","RESET","RESETPIN","CLOSED","SUSPEND"]
+}
